@@ -4,17 +4,27 @@ Awesome list about PHP code bases migrations, legacy refactoring and instant upg
 
 Do you have an old PHP project that you need to migrate to never version, different framework, templating system or config format? This is the place.
 
+## Generic Tools
+
+- [rector/rector](https://github.com/rectorphp/rector) - Tool for Instant Upgrades and Instant Refactoring of any PHP 5.3+ code
 
 ## Framework Migrations
 
 ### Nette to Symfony
 
-- []
-
+- How we Migrated from Nette to Symfony in 3 Weeks [case study]
+    - [Part 1](https://tomasvotruba.com/blog/2019/02/21/how-we-migrated-from-nette-to-symfony-in-3-weeks-part-1/)
+    - [Part 2 -  Escaping Semantic Hell](https://tomasvotruba.com/blog/2019/03/07/why-we-migrated-from-nette-to-symfony-in-3-weeks-part-2/)
+    - [Part 3 - Brain Drain Dead Packages-Lock](https://tomasvotruba.com/blog/2019/03/11/why-we-migrated-from-nette-to-symfony-in-3-weeks-part-3/)
+    - [Drop RobotLoader and let Composer Deal with Autoloading](https://tomasvotruba.com/blog/2020/06/08/drop-robot-loader-and-let-composer-deal-with-autoloading/)
 
 ## Legacy Unfreeze
 
 - [migrify/vendor-patches](https://github.com/migrify/vendor-patches) - PHP tool to effectively and temporarily patch your `/vendor` files
+
+## Static Removal
+
+- [migrify/static-detector](https://github.com/migrify/static-detector) - PHP tool that shows where do you have static method and where they're called from
 
 ## Dev Tools
 
@@ -22,13 +32,10 @@ Do you have an old PHP project that you need to migrate to never version, differ
     - [How to Migrate From PHP CS Fixer to EasyCodingStandard in 6 Steps](https://tomasvotruba.com/blog/2018/06/07/how-to-migrate-from-php-cs-fixer-to-easy-coding-standard/)
     - [How to Migrate From PHP_CodeSniffer to EasyCodingStandard in 7 Steps](https://tomasvotruba.com/blog/2018/06/04/how-to-migrate-from-php-code-sniffer-to-easy-coding-standard/)
 
-## Legacy Removal
-
-- [migrify/static-detector](https://github.com/migrify/static-detector) - PHP tool that shows where do you have static method and where they're called from
-
 ## Config Migrations
 
 - [migrify/neon-to-yaml](https://github.com/migrify/neon-to-yaml) - PHP tool that migrates NEON to YAML syntax
+    - [Neon vs. Yaml and How to Migrate Between Them](https://tomasvotruba.com/blog/2018/03/12/neon-vs-yaml-and-how-to-migrate-between-them/) [post]
 - [migrify/config-transformer](https://github.com/migrify/config-transformer) - PHP tool that migrates Symfony configs with YAML/XML syntax to PHP 
     - [How to Switch from YAML/XML Configs to PHP Today with Migrify](https://tomasvotruba.com/blog/2020/07/27/how-to-switch-from-yaml-xml-configs-to-php-today-with-migrify/) [post]  
 
