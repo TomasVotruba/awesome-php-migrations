@@ -4,6 +4,18 @@ Awesome list about PHP code bases migrations, legacy refactoring and instant upg
 
 Do you have an old PHP project that you need to migrate to never version, different framework, templating system or config format? This is the place.
 
+## What to Contribute?
+
+The goal of this post is to **keep it short, useful and reliable**. Work with legacy often very frustrating, as behind corner there is a new black hole of problems to suck us in. 
+
+Our mission is to **keep this list practical and light** so we can see the light in every legacy project :)
+
+- Welcomed are: tools, posts, case-studies and short videos.
+- Avoid conference videos, as they're long and without clickable resources.
+- Avoid books, as they're opinionated, long, often outdated and hard to use. If you need to contribute last 2, try [awesome-php](https://github.com/ziadoz/awesome-php).
+ 
+<br><br>
+
 ## Generic Tools
 
 - [rector/rector](https://github.com/rectorphp/rector) - Tool for Instant Upgrades and Instant Refactoring of any PHP 5.3+ code
