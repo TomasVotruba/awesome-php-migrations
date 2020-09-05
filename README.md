@@ -12,7 +12,7 @@ Do you have an old PHP project that you need to migrate to never version, differ
 
 ### Nette to Symfony
 
-- How we Migrated from Nette to Symfony in 3 Weeks [case study]
+- How we Migrated from Nette to Symfony in 3 Weeks **[case study]**
     - [Part 1](https://tomasvotruba.com/blog/2019/02/21/how-we-migrated-from-nette-to-symfony-in-3-weeks-part-1/)
     - [Part 2 -  Escaping Semantic Hell](https://tomasvotruba.com/blog/2019/03/07/why-we-migrated-from-nette-to-symfony-in-3-weeks-part-2/)
     - [Part 3 - Brain Drain Dead Packages-Lock](https://tomasvotruba.com/blog/2019/03/11/why-we-migrated-from-nette-to-symfony-in-3-weeks-part-3/)
@@ -29,15 +29,15 @@ Do you have an old PHP project that you need to migrate to never version, differ
 ## Dev Tools
 
 - [migrify/sniffer-fixer-to-ecs](https://github.com/migrify/sniffer-fixer-to-ecs) - Convert PHP CS Fixer or PHP_CodeSniffer config to `ecs.php` for [EasyCodingStandard](https://github.com/symplify/easy-coding-standard) 
-    - [How to Migrate From PHP CS Fixer to EasyCodingStandard in 6 Steps](https://tomasvotruba.com/blog/2018/06/07/how-to-migrate-from-php-cs-fixer-to-easy-coding-standard/) [post]
-    - [How to Migrate From PHP_CodeSniffer to EasyCodingStandard in 7 Steps](https://tomasvotruba.com/blog/2018/06/04/how-to-migrate-from-php-code-sniffer-to-easy-coding-standard/) [post]
+    - [How to Migrate From PHP CS Fixer to EasyCodingStandard in 6 Steps](https://tomasvotruba.com/blog/2018/06/07/how-to-migrate-from-php-cs-fixer-to-easy-coding-standard/) **[post]**
+    - [How to Migrate From PHP_CodeSniffer to EasyCodingStandard in 7 Steps](https://tomasvotruba.com/blog/2018/06/04/how-to-migrate-from-php-code-sniffer-to-easy-coding-standard/) **[post]**
 
 ## Config Migrations
 
 - [migrify/neon-to-yaml](https://github.com/migrify/neon-to-yaml) - PHP tool that migrates NEON to YAML syntax
-    - [Neon vs. Yaml and How to Migrate Between Them](https://tomasvotruba.com/blog/2018/03/12/neon-vs-yaml-and-how-to-migrate-between-them/) [post]
+    - [Neon vs. Yaml and How to Migrate Between Them](https://tomasvotruba.com/blog/2018/03/12/neon-vs-yaml-and-how-to-migrate-between-them/) **[post]**
 - [migrify/config-transformer](https://github.com/migrify/config-transformer) - PHP tool that migrates Symfony configs with YAML/XML syntax to PHP 
-    - [How to Switch from YAML/XML Configs to PHP Today with Migrify](https://tomasvotruba.com/blog/2020/07/27/how-to-switch-from-yaml-xml-configs-to-php-today-with-migrify/) [post]  
+    - [How to Switch from YAML/XML Configs to PHP Today with Migrify](https://tomasvotruba.com/blog/2020/07/27/how-to-switch-from-yaml-xml-configs-to-php-today-with-migrify/) **[post]**  
 
 ## Template Migrations
 
@@ -51,7 +51,7 @@ Do you have an old PHP project that you need to migrate to never version, differ
 ## File System Migrations
 
 - [migrify/psr4-switcher](https://github.com/migrify/psr4-switcher) - PHP tool that helps you to migrate random classes to PSR-4
-    - [How to Patch a Package in Vendor, Yet Allow its Updates](https://tomasvotruba.com/blog/2020/07/02/how-to-patch-package-in-vendor-yet-allow-its-updates/) [post]
+    - [How to Patch a Package in Vendor, Yet Allow its Updates](https://tomasvotruba.com/blog/2020/07/02/how-to-patch-package-in-vendor-yet-allow-its-updates/) **[post]**
 
 ## Symfony Dead Code
 
