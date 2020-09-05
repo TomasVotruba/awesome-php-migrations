@@ -4,6 +4,8 @@ Awesome list about PHP code bases migrations, legacy refactoring and instant upg
 
 Do you have an old PHP project that you need to migrate to never version, different framework, templating system or config format? This is the place.
 
+<br>
+
 ## What to Contribute?
 
 The goal of this post is to **keep it short, useful and reliable**. Work with legacy often very frustrating, as behind corner there is a new black hole of problems to suck us in. 
