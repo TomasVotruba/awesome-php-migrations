@@ -29,8 +29,8 @@ Do you have an old PHP project that you need to migrate to never version, differ
 ## Dev Tools
 
 - [migrify/sniffer-fixer-to-ecs](https://github.com/migrify/sniffer-fixer-to-ecs) - Convert PHP CS Fixer or PHP_CodeSniffer config to `ecs.php` for [EasyCodingStandard](https://github.com/symplify/easy-coding-standard) 
-    - [How to Migrate From PHP CS Fixer to EasyCodingStandard in 6 Steps](https://tomasvotruba.com/blog/2018/06/07/how-to-migrate-from-php-cs-fixer-to-easy-coding-standard/)
-    - [How to Migrate From PHP_CodeSniffer to EasyCodingStandard in 7 Steps](https://tomasvotruba.com/blog/2018/06/04/how-to-migrate-from-php-code-sniffer-to-easy-coding-standard/)
+    - [How to Migrate From PHP CS Fixer to EasyCodingStandard in 6 Steps](https://tomasvotruba.com/blog/2018/06/07/how-to-migrate-from-php-cs-fixer-to-easy-coding-standard/) [post]
+    - [How to Migrate From PHP_CodeSniffer to EasyCodingStandard in 7 Steps](https://tomasvotruba.com/blog/2018/06/04/how-to-migrate-from-php-code-sniffer-to-easy-coding-standard/) [post]
 
 ## Config Migrations
 
