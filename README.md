@@ -2,7 +2,7 @@
 
 Awesome list about PHP code bases migrations, legacy refactoring and instant upgrades. (This list is not about database migrations.)
 
-Do you have an old PHP project that you need to migrate to never version, different framework, templating system or config format? This is the place.
+Do you have an old PHP project that you need to migrate to newer version, different framework, templating system or config format? This is the place.
 
 <br>
 
