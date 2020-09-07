@@ -34,7 +34,7 @@ Our mission is to **keep this list practical and light** so we can see the light
 
 ### Legacy framework to PSR-15
 
-- [Applying PSR-15 to refactoring of Legacy applications](https://medium.com/php-fad/applying-psr-15-to-refactoring-of-legacy-applications-94ca7ffbaedd)
+- [Applying PSR-15 to refactoring of Legacy applications](https://medium.com/php-fad/applying-psr-15-to-refactoring-of-legacy-applications-94ca7ffbaedd) **[post]**
 
 ## Legacy Unfreeze
 
@@ -65,6 +65,7 @@ Our mission is to **keep this list practical and light** so we can see the light
 
 - [migrify/template-checker](https://github.com/migrify/template-checker) - PHP tool, that checks `$this->render()` contains existing template files
 - [migrify/class-presence](https://github.com/migrify/class-presence) - PHP tool that checks NEON/YAML/TWIG/LATTE files for existing classes and class constants 
+- [Switch Travis to GitHub Actions to Reduce Stress](https://tomasvotruba.com/blog/2020/01/27/switch-travis-to-github-actions-to-reduce-stress/) **[post]**
 
 ## File System Migrations
 
