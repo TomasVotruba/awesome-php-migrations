@@ -32,6 +32,10 @@ Our mission is to **keep this list practical and light** so we can see the light
     - [Part 3 - Brain Drain Dead Packages-Lock](https://tomasvotruba.com/blog/2019/03/11/why-we-migrated-from-nette-to-symfony-in-3-weeks-part-3/)
     - [Drop RobotLoader and let Composer Deal with Autoloading](https://tomasvotruba.com/blog/2020/06/08/drop-robot-loader-and-let-composer-deal-with-autoloading/)
 
+### Legacy framework to PSR-15
+
+- [Applying PSR-15 to refactoring of Legacy applications](https://medium.com/php-fad/applying-psr-15-to-refactoring-of-legacy-applications-94ca7ffbaedd)
+
 ## Legacy Unfreeze
 
 - [migrify/vendor-patches](https://github.com/migrify/vendor-patches) - PHP tool to effectively and temporarily patch your `/vendor` files
