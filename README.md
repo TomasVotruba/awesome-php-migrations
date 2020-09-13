@@ -43,6 +43,7 @@ Our mission is to **keep this list practical and light** so we can see the light
 ## Static Removal
 
 - [migrify/static-detector](https://github.com/migrify/static-detector) - PHP tool that shows where do you have static method and where they're called from
+- [migrify/template-checker](https://github.com/migrify/template-checker) - PHP tool that extracts static calls from Latte templates to `FilterProvider` classes
 
 ## Dev Tools
 
