@@ -1,4 +1,4 @@
-# Awesome PHP Migrations
+# Awesome PHP Migrations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Awesome list about PHP code bases migrations, legacy refactoring and instant upgrades. (This list is not about database migrations.)
 
