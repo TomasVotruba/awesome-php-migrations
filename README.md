@@ -38,44 +38,44 @@ Our mission is to **keep this list practical and light** so we can see the light
 
 ## Legacy Unfreeze
 
-- [migrify/vendor-patches](https://github.com/migrify/vendor-patches) - PHP tool to effectively and temporarily patch your `/vendor` files
+- [symplify/vendor-patches](https://github.com/symplify/vendor-patches) - PHP tool to effectively and temporarily patch your `/vendor` files
 
 ## Static Removal
 
-- [migrify/static-detector](https://github.com/migrify/static-detector) - PHP tool that shows where do you have static method and where they're called from
-- [migrify/template-checker](https://github.com/migrify/template-checker) - PHP tool that extracts static calls from Latte templates to `FilterProvider` classes
+- [symplify/static-detector](https://github.com/symplify/static-detector) - PHP tool that shows where do you have static method and where they're called from
+- [symplify/template-checker](https://github.com/symplify/template-checker) - PHP tool that extracts static calls from Latte templates to `FilterProvider` classes
 
 ## Dev Tools
 
-- [migrify/sniffer-fixer-to-ecs](https://github.com/migrify/sniffer-fixer-to-ecs) - Convert PHP CS Fixer or PHP_CodeSniffer config to `ecs.php` for [EasyCodingStandard](https://github.com/symplify/easy-coding-standard) 
+- [symplify/sniffer-fixer-to-ecs](https://github.com/symplify/sniffer-fixer-to-ecs) - Convert PHP CS Fixer or PHP_CodeSniffer config to `ecs.php` for [EasyCodingStandard](https://github.com/symplify/easy-coding-standard) 
     - [How to Migrate From PHP CS Fixer to EasyCodingStandard in 6 Steps](https://tomasvotruba.com/blog/2018/06/07/how-to-migrate-from-php-cs-fixer-to-easy-coding-standard/) **[post]**
     - [How to Migrate From PHP_CodeSniffer to EasyCodingStandard in 7 Steps](https://tomasvotruba.com/blog/2018/06/04/how-to-migrate-from-php-code-sniffer-to-easy-coding-standard/) **[post]**
 
 ## Config Migrations
 
-- [migrify/neon-to-yaml](https://github.com/migrify/neon-to-yaml) - PHP tool that migrates NEON to YAML syntax
+- [symplify/neon-to-yaml-converter](https://github.com/symplify/neon-to-yaml-converter) - PHP tool that migrates NEON to YAML syntax
     - [Neon vs. Yaml and How to Migrate Between Them](https://tomasvotruba.com/blog/2018/03/12/neon-vs-yaml-and-how-to-migrate-between-them/) **[post]**
-- [migrify/config-transformer](https://github.com/migrify/config-transformer) - PHP tool that migrates Symfony configs with YAML/XML syntax to PHP 
+- [symplify/config-transformer](https://github.com/symplify/config-transformer) - PHP tool that migrates Symfony configs with YAML/XML syntax to PHP 
     - [How to Switch from YAML/XML Configs to PHP Today with Migrify](https://tomasvotruba.com/blog/2020/07/27/how-to-switch-from-yaml-xml-configs-to-php-today-with-migrify/) **[post]**  
 
 ## Template Migrations
 
-- [migrify/latte-to-twig](https://github.com/migrify/latte-to-twig) - PHP tool that migrated LATTE templates to TWIG 
+- [symplify/latte-to-twig-converter](https://github.com/symplify/latte-to-twig-converter) - PHP tool that migrated LATTE templates to TWIG 
 
 ## Continuous Integration Checks
 
-- [migrify/template-checker](https://github.com/migrify/template-checker) - PHP tool, that checks `$this->render()` contains existing template files
-- [migrify/class-presence](https://github.com/migrify/class-presence) - PHP tool that checks NEON/YAML/TWIG/LATTE files for existing classes and class constants 
+- [symplify/template-checker](https://github.com/symplify/template-checker) - PHP tool, that checks `$this->render()` contains existing template files
+- [symplify/class-presence](https://github.com/symplify/class-presence) - PHP tool that checks NEON/YAML/TWIG/LATTE files for existing classes and class constants 
 - [Switch Travis to GitHub Actions to Reduce Stress](https://tomasvotruba.com/blog/2020/01/27/switch-travis-to-github-actions-to-reduce-stress/) **[post]**
 
 ## File System Migrations
 
-- [migrify/psr4-switcher](https://github.com/migrify/psr4-switcher) - PHP tool that helps you to migrate random classes to PSR-4
+- [symplify/psr4-switcher](https://github.com/symplify/psr4-switcher) - PHP tool that helps you to migrate random classes to PSR-4
     - [How to Patch a Package in Vendor, Yet Allow its Updates](https://tomasvotruba.com/blog/2020/07/02/how-to-patch-package-in-vendor-yet-allow-its-updates/) **[post]**
 
 ## Symfony Dead Code
 
-- [migrify/symfony-route-usage](https://github.com/migrify/symfony-route-usage) - Symfony bundle that logs route usage and show unused routes
+- [symplify/symfony-route-usage](https://github.com/symplify/symfony-route-usage) - Symfony bundle that logs route usage and show unused routes
 
 ## Laravel Dead Code
 
