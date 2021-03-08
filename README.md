@@ -24,6 +24,10 @@ Our mission is to **keep this list practical and light** so we can see the light
 
 ## Framework Migrations
 
+### Symfony Upgrade
+
+- [From Symfony 2.3 to Symfony 2.7: the complete guide](https://gist.github.com/TomasVotruba/8fb3e1d97896553279757a5aa94cecb5)
+
 ### Nette to Symfony
 
 - How we Migrated from Nette to Symfony in 3 Weeks **[case study]**
@@ -72,11 +76,3 @@ Our mission is to **keep this list practical and light** so we can see the light
 
 - [symplify/psr4-switcher](https://github.com/symplify/psr4-switcher) - PHP tool that helps you to migrate random classes to PSR-4
     - [How to Patch a Package in Vendor, Yet Allow its Updates](https://tomasvotruba.com/blog/2020/07/02/how-to-patch-package-in-vendor-yet-allow-its-updates/) **[post]**
-
-## Symfony Dead Code
-
-- [symplify/symfony-route-usage](https://github.com/symplify/symfony-route-usage) - Symfony bundle that logs route usage and show unused routes
-
-## Laravel Dead Code
-
-- [julienbourdeau/route-usage](https://github.com/julienbourdeau/route-usage) - Laravel bundle that logs route usage and show unused routes
