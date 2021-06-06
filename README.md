@@ -26,7 +26,7 @@ Our mission is to **keep this list practical and light** so we can see the light
 
 ### Symfony Upgrade
 
-- [From Symfony 2.3 to Symfony 2.7: the complete guide](https://gist.github.com/TomasVotruba/8fb3e1d97896553279757a5aa94cecb5)
+- [From Symfony 2.3 to Symfony 2.7: the complete guide](https://gist.github.com/mickaelandrieu/5211d0047e7a6fbff925)
 
 ### Nette to Symfony
 
